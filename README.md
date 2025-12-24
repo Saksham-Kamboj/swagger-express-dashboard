@@ -26,7 +26,7 @@ A beautiful, interactive API documentation and testing dashboard for Express.js 
 ## 📦 Installation
 
 ```bash
-npm install swagger-express-dashboard
+- GitHub Issues: (https://github.com/Saksham-Kamboj/swagger-express-dashboard.git)
 ```
 
 ## 🚀 Quick Start
@@ -35,7 +35,7 @@ npm install swagger-express-dashboard
 
 ```javascript
 const express = require("express");
-const SwaggerExpressDashboard = require("swagger-express-dashboard");
+const SwaggerExpressDashboard = require("./swagger-express-dashboard");
 
 const app = express();
 
@@ -68,7 +68,7 @@ app.listen(3000, () => {
 
 ```javascript
 const express = require("express");
-const SwaggerExpressDashboard = require("swagger-express-dashboard");
+const SwaggerExpressDashboard = require("./swagger-express-dashboard");
 
 const app = express();
 const dashboard = new SwaggerExpressDashboard({
