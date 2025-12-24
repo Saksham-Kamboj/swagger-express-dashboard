@@ -25,8 +25,9 @@ A beautiful, interactive API documentation and testing dashboard for Express.js 
 
 ## 📦 Installation
 
+- GitHub:
 ```bash
-- GitHub Issues: (https://github.com/Saksham-Kamboj/swagger-express-dashboard.git)
+ https://github.com/Saksham-Kamboj/swagger-express-dashboard.git
 ```
 
 ## 🚀 Quick Start
