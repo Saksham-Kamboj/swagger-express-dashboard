@@ -30,6 +30,11 @@
   "engines": {
     "node": ">=14.0.0"
   },
+  "scripts": {
+    "example:basic": "node examples/basic-usage.js",
+    "example:advanced": "node examples/advanced-usage.js",
+    "test": "node test/basic.test.js"
+  },
   "files": [
     "index.js",
     "lib/",
